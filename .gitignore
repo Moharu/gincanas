@@ -1,0 +1,4 @@
+.hz
+node_modules
+*.log
+rethinkdb_data
